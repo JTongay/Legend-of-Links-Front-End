@@ -1,5 +1,5 @@
 # Legend-of-Links-Front-End
-Repo to hold links to build projects with articles
+Repo to hold links to build projects with articles. Dope.
 
 ### Projects for Front End
 * [Build Twitter with AngularJS](http://www.sitepoint.com/building-twitter-app-using-angularjs)
@@ -47,7 +47,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 ### JS Guides and Resources
 * [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Understanding Async JavaScript (damn good)](https://github.com/vasanthk/async-javascript)
-* [Front End Tools Favorite Finds 2015](http://www.sitepoint.com/front-end-tools-favorite-finds-2015/) 
+* [Front End Tools Favorite Finds 2015](http://www.sitepoint.com/front-end-tools-favorite-finds-2015/)
 * [JS the right way](http://jstherightway.org/)
 * [20 Docs and Guides for FE Devs - No. 1](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 2](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
